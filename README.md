@@ -85,13 +85,13 @@ Column 24: Label (0 for the null class)<br/>
 
 <details>
     <summary>내용</summary>
-Size of dataset, Number of label, t-test<br/>
-Distribution of data where x axis = Mean of acceleration measured by a sensor in chest.<br/>
-Boxplot where x axis is same with above.<br/>
-Distribution of data using 2 features, Mean and std of acceleration measured by a sensor in chest.<br/>
-Distribution of data where x axis = Mean of magnetometer measured by a sensor in left ankle.<br/>
-Boxplot where x axis is same with above.<br/>
-Distribution of data using 2 features, Mean of acceleration measured by a sensor in chest and of magnetometer measured by a sensor in left ankle.<br/>
+1. Size of dataset, Number of label, t-test<br/>
+2. Distribution of data where x axis = Mean of acceleration measured by a sensor in chest.<br/>
+3. Boxplot where x axis is same with above.<br/>
+4. Distribution of data using 2 features, Mean and std of acceleration measured by a sensor in chest.<br/>
+5. Distribution of data where x axis = Mean of magnetometer measured by a sensor in left ankle.<br/>
+6. Boxplot where x axis is same with above.<br/>
+7. Distribution of data using 2 features, Mean of acceleration measured by a sensor in chest and of magnetometer measured by a sensor in left ankle.<br/>
 </details>
 
 - 결론
