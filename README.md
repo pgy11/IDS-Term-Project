@@ -1,6 +1,6 @@
 # 데이터 사이언스개론 텀프로젝트
 
-### [nbviewer에서 코드 보기](https://github.com/pgy11/IDS-Term-Project)
+### [nbviewer에서 코드 보기](https://nbviewer.jupyter.org/github/pgy11/IDS-Term-Project/tree/main/)
 
 ## 0. 주제
 
