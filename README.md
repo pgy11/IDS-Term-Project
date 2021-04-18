@@ -1,5 +1,7 @@
 # 데이터 사이언스개론 텀프로젝트
 
+### [nbviewer에서 코드 보기](https://nbviewer.jupyter.org/github/pgy11/HUFS-AI-Internship/tree/main/)
+
 ## 0. 주제
 
 - 데이터 전처리를 다르게하여 3개의 데이터셋을 만들고, 결정트리를 이용하여 각 성능을 측정
